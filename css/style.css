@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body{
+	font-family: "Lato";
+}
+
+h1 {
+	font-weight: 900;
+	width: 813px;
+	height: 210px;
+	margin-top: 85px;
+	margin-left: 381px;
+	font-size: 46px;
+}
+
+img {
+	width: 810px;
+	height: 360px;
+	margin-left: 384px;
+	border-radius: 4px;
+}
+
+.text {
+	width: 810px;
+	margin-left: 384px;
+	font-family: "Lato";
+	margin-top: 60px;
+}
+
+.text__p {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+
+}
+
+.text__p__text {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 160%;
+	margin-top: 25px;
+}
+.quote{
+    font-weight: 700;
+	font-size: 20px;
+	width: 752px;
+	height: 120px;
+	margin-top: 35px;
+	margin-left: 442px;
+	line-height: 30px;
+
+}
+
+.box p {
+	width: 810px;
+	font-weight: 400;
+	font-size: 16px;
+	margin-left: 384px;
+	margin-top: 40px;
+	line-height: 160%;
+
+}
+
+.list {
+	font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+	margin-left: 416px;
+	margin-top: 35px;
+}
+
+.experiment{
+	width: 350px;
+	height: 200px;
+	margin-left: 500px;
+	margin-top: 50px;
+	border: 10px solid rgb(191, 30, 132);
+	overflow: scroll;
+	padding: 15px;
+}
+
+.experiment__one {
+	margin-left: 450px;
+	width: 377px;
+	height: 50px;
+	margin-top: 30px;
+	outline: 5px dotted rgb(204, 142, 26);
+	background-color: aqua;
+}
+
+.circle {
+	border-radius: 50px;
+	width: 100px;
+	height: 100px;
+	background-color: rgb(243, 83, 83);
+	margin:20px  auto 20px;
+	box-shadow: 10px 10px 15px rgb(153, 30, 30), inset 5px 5px 15px rgb(225, 157, 157);
+}
+
+.circle p {
+	text-align: center;
+}
